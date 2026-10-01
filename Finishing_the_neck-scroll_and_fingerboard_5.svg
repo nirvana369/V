@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="213.81177"
+   height="140.32246"
+   id="svg4779"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="5.svg">
+  <title
+     id="title11832">Violin fingerboard rounding</title>
+  <defs
+     id="defs4781" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1.0"
+     inkscape:pageopacity="1.0"
+     inkscape:pageshadow="0"
+     inkscape:zoom="0.96166522"
+     inkscape:cx="10.688846"
+     inkscape:cy="-129.26086"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="mm" />
+  <metadata
+     id="metadata4784">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Violin fingerboard rounding</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Vojtěch Blahout</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>7.11.2012</dc:date>
+        <cc:license
+           rdf:resource="" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-421.37153,1719.1462)">
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path11765"
+       d="m 444.12534,-1695.6775 c 45.63391,-14.4302 96.53389,-21.715 169.16731,0.4915 5.84548,2.1398 7.11187,7.5733 7.67633,11.3972 1.53142,72.8542 -52.64039,105.4665 -90.53688,104.4417 -73.10437,-2.9681 -88.91664,-50.8603 -93.53467,-85.6893 -0.9792,-8.1055 -0.89253,-15.1452 -0.14413,-21.523 0.21152,-3.3502 3.23668,-8.0037 7.37204,-9.1181 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11767"
+       d="m 437.56567,-1665.5515 181.17628,0.3133"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <g
+       id="g12348"
+       style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.39811551,0,0,0.39811551,253.61699,-1034.7274)">
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 6;stroke-dashoffset:0"
+         d="m 446.48498,-1563.6262 24.4896,-151.02"
+         id="path11769"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11771"
+         d="m 935.02198,-1563.6262 -24.4896,-151.02"
+         style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 6;stroke-dashoffset:0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11777"
+         d="m 422.87152,-1588.1765 81.51236,-129.4697"
+         style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 6;stroke-dashoffset:0" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 6;stroke-dashoffset:0"
+         d="m 956.93115,-1588.1765 -81.51236,-129.4697"
+         id="path11781"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
